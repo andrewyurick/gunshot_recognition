@@ -1,0 +1,1 @@
+Trained .pth too big for GitHub, will include link to 3rd party website for download.
